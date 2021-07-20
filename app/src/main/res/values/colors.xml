@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main">#8BC34A</color>
+    <color name="second">#4CAF50</color>
+    <color name="accent">#2196F3</color>
+    <color name="text">#090F11</color>
+    <color name="background">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="great">#55a630</color>
+    <color name="wrong">#df1623</color>
+    <color name="red">#df1623</color>
+    <color name="green">#55a630</color>
+    <color name="transparent">@android:color/transparent</color>
+
+
+</resources>

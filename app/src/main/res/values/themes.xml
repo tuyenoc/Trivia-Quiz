@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.TriviaQuiz" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/main</item>
+        <item name="colorPrimaryVariant">@color/second</item>
+        <item name="colorOnPrimary">@color/accent</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:fontFamily">@font/worksans</item>
+    </style>
+
+    <style name="DialogInProgress" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">#1A101A1E</item>
+    </style>
+
+    <style name="DialogAlert" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:windowBackground">#1A101A1E</item>
+    </style>
+</resources>

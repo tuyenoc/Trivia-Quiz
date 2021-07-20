@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "386607588645",
+    "project_id": "trivia-quiz-876e4",
+    "storage_bucket": "trivia-quiz-876e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386607588645:android:a93500c3d540cc6594e6cc",
+        "android_client_info": {
+          "package_name": "com.tuyennguyen.trivia_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386607588645-tpnp01011qjrmfjlus6bg8ebafhq4bv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuyennguyen.trivia_quiz",
+            "certificate_hash": "2642a0d7adc5f724d90b509948442425f50eb6d4"
+          }
+        },
+        {
+          "client_id": "386607588645-cn3c3e2hkgf0cp39u8am5b1689ns2ncr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ2QxBxf37x7sRMVQ21UD9kA7IFW6ng9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386607588645-cn3c3e2hkgf0cp39u8am5b1689ns2ncr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

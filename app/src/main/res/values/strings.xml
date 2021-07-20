@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trivia Quiz</string>
+
+    <string name="note_premium">Your subscription will auto-renew and you will be charged the amount specified above each week,
+        month, 3 month, 6 month or year (as applicable) until you cancel your subscription before the end of the then-current subscription period.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_account"><u>Create Account</u></string>
+    <string name="an_error_occurred_try_again"><u>An error occurred, try again</u></string>
+
+</resources>
